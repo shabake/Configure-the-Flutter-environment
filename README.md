@@ -278,4 +278,4 @@ q 键：退出调试预览模式。
 
 `fluttet`严格区分大小写,项目名称必须是小写
 
-[回到顶部](https://www.notion.so/bc715740a81943c8a4d9fcf990e7f55a#93a8c61fac3e49a3ad46ee98f5caf3ed)
+[在notion中查看](https://www.notion.so/bc715740a81943c8a4d9fcf990e7f55a#93a8c61fac3e49a3ad46ee98f5caf3ed)
