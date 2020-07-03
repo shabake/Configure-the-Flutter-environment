@@ -1,3 +1,7 @@
+
+#### 如果图片没有展示出来,建议clone到本地用macdown编译器打开README.md
+
+
 ## 准备
 
 [FlutterSDK下载](https://flutter.io/docs/development/tools/sdk/archive?tab=macos#macos) 
