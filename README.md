@@ -240,6 +240,16 @@ flutter create project_name
 
 ![https://upload-images.jianshu.io/upload_images/1419035-5482d4188f2ab43c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240](https://upload-images.jianshu.io/upload_images/1419035-5482d4188f2ab43c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+### **可能遇到的问题**
+
+```jsx
+zsh: command not found: flutter
+```
+
+第一种可能的情况是设置的flutterSDK路径错误，检查下再试
+
+第二种macOS Catalina 版开始，您的 Mac 将使用 zsh 作为默认登录 Shell 和交互式 Shell。您还可以在较低版本的 macOS 中将 zsh 设置为默认 Shell，[解决方法](https://www.jianshu.com/p/e585369c1a65)
+
 ### **其他**
 
 VSCode可能需要安装的插件
