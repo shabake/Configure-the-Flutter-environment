@@ -4,9 +4,9 @@
 
 ## 准备
 
-[FlutterSDK下载](https://flutter.io/docs/development/tools/sdk/archive?tab=macos#macos) 
+[FlutterSDK下载](https://flutter.io/docs/development/tools/sdk/archive?tab=macos#macos) 目前我使用的版本是1.17.4，1.17.5安装后找到flutterSDK原因未知
 
-[Java环境](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 选择 **Mac OS X x64** 同意协议后可下载安装包
+[Java环境](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) 选择 **Mac OS X x64** 同意协议且注册后可下载安装包
 
 [Android Studio](https://developer.android.com/) 下载最新版本
 
