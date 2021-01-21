@@ -37,9 +37,12 @@ open .bash_profile
 依次将这三句话复制加进去
 
 ```dart
-export PUB_HOSTED_URL=[https://pub.flutter-io.cn](https://pub.flutter-io.cn/)
-export FLUTTER_STORAGE_BASE_URL=[https://storage.flutter-io.cn](https://storage.flutter-io.cn/)
-export PATH=/路径/bin:$PATH
+export PUB_HOSTED_URL=https://pub.flutter-io.cn
+
+export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
+
+export PATH=/Users/路径/flutter/bin:$PATH
+
 ```
 
 关闭保存,打开终端输入
